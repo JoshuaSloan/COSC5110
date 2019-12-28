@@ -1,0 +1,13 @@
+//output from test500
+
+The score of the maximum subset is: 377
+
+//output from test1000
+
+The score of the maximum subset is: 2494
+
+//output from test2000
+
+The score of the maximum subset is: 5163
+
+
